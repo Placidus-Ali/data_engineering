@@ -81,3 +81,6 @@
 
 ## To list Tables
 # aws dynamodb list-tables --endpoint-url http://localhost:8000 --region us-west-2
+
+## My DynamoDB Web Address is
+# http://localhost:8001/
